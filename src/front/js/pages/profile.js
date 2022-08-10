@@ -7,7 +7,7 @@ export const Profile = () => {
 
   return (
    
-    <div className="container m-auto">
+    <div className="container card m-auto">
 		<div className="row py-3">
       <h1>Perfil Usuario/Taller</h1>
 
